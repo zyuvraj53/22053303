@@ -9,7 +9,7 @@ export default function Home() {
 
   useEffect(() => {
     axios
-      .get(`${process.env.NEXT_PUBLIC_API_URL}/users`)
+      .get("http://localhost:8080/users")
       .then(res => {
         const users = res.data.users;
         const sortedTopFive = users;

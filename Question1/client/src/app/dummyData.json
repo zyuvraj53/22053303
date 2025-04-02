@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userName": "Alice Smith",
+      "postContent": "Loving this beautiful morning!"
+    },
+    {
+      "id": 2,
+      "userName": "Alice Smith",
+      "postContent": "Just finished a great workout"
+    },
+    {
+      "id": 3,
+      "userName": "Bob Johnson",
+      "postContent": "New project launch today!"
+    },
+    {
+      "id": 4,
+      "userName": "Bob Johnson",
+      "postContent": "Coffee is life"
+    },
+    {
+      "id": 5,
+      "userName": "Bob Johnson",
+      "postContent": "Team meeting went well"
+    },
+    {
+      "id": 6,
+      "userName": "Charlie Brown",
+      "postContent": "Reading a fantastic book"
+    },
+    {
+      "id": 7,
+      "userName": "Diana Miller",
+      "postContent": "Baking cookies this afternoon"
+    },
+    {
+      "id": 8,
+      "userName": "Diana Miller",
+      "postContent": "Sunset views are amazing"
+    },
+    {
+      "id": 9,
+      "userName": "Eve Wilson",
+      "postContent": "Planning a weekend trip"
+    },
+    {
+      "id": 10,
+      "userName": "Eve Wilson",
+      "postContent": "Just adopted a puppy!"
+    },
+    {
+      "id":11,
+      "userName": "Eve Wilson",
+      "postContent": "Puppy is adorable"
+    }
+  ]
+}
